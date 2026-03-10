@@ -5,7 +5,7 @@ public class App {
         System.out.println("Hello World");
         System.out.println("Welcome to Java Programming");
 
-        int a = 10;
+        int a = 20;
         int b = 20;
 
         int sum = a + b;
